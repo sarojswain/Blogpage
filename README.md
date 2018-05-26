@@ -1,1 +1,1 @@
-# Blogpage of feature-branch
+# Blogpage
